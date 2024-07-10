@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/bossthekhani/four_card_feature_section)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Live Site URL: [Live Preview](https://four-card-feature-section-green-delta.vercel.app/)
 
 ## My process
 
